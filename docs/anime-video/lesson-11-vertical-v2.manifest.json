@@ -1,0 +1,49 @@
+{
+  "lesson": 11,
+  "variant": "vertical-v2",
+  "canvas": {
+    "width": 600,
+    "height": 1000,
+    "illustrationHeight": 640,
+    "captionTop": 640
+  },
+  "style": "original anime storyboard with blank parchment caption area",
+  "frames": [
+    {
+      "id": "sb-11-001",
+      "path": "/assets/storyboards/lesson-11/vertical-v2/sb-11-001.svg",
+      "title": "入口寒暄",
+      "purpose": "开场，建立人物关系和日常会话语境"
+    },
+    {
+      "id": "sb-11-002",
+      "path": "/assets/storyboards/lesson-11/vertical-v2/sb-11-002.svg",
+      "title": "AI 老师讲解数量词",
+      "purpose": "展示 AI 互动学习系统的讲解能力"
+    },
+    {
+      "id": "sb-11-003",
+      "path": "/assets/storyboards/lesson-11/vertical-v2/sb-11-003.svg",
+      "title": "咖啡店点单",
+      "purpose": "用生活场景练习 杯"
+    },
+    {
+      "id": "sb-11-004",
+      "path": "/assets/storyboards/lesson-11/vertical-v2/sb-11-004.svg",
+      "title": "课堂卡片练习",
+      "purpose": "练习 人、枚、時間 等表达"
+    },
+    {
+      "id": "sb-11-005",
+      "path": "/assets/storyboards/lesson-11/vertical-v2/sb-11-005.svg",
+      "title": "会话互动",
+      "purpose": "突出双人练习和移动端互动"
+    },
+    {
+      "id": "sb-11-006",
+      "path": "/assets/storyboards/lesson-11/vertical-v2/sb-11-006.svg",
+      "title": "完成奖励",
+      "purpose": "收尾，强化学习成就感"
+    }
+  ]
+}
